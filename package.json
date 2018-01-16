@@ -1,0 +1,22 @@
+{
+  "name": "pedin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedinSeuAmiguin/ProgCorp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedinSeuAmiguin/ProgCorp/issues"
+  },
+  "homepage": "https://github.com/PedinSeuAmiguin/ProgCorp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
